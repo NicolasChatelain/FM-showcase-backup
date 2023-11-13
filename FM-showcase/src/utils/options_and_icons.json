@@ -1,0 +1,19 @@
+[
+
+    {
+        "id": 1,
+        "name": "Vehicles",
+        "iconpath": "src/assets/icons/vehicle.svg"
+    },
+    {
+        "id": 2,
+        "name": "Drivers",
+        "iconpath": "src/assets/icons/driver.svg"
+    },
+    {
+        "id": 3,
+        "name": "Fuelcards",
+        "iconpath": "src/assets/icons/fuelcard.svg"
+    }
+
+]
